@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on **HyreNet**
 
-- 🌱 I’m currently learning **Full stack, AI, Deep Learning, Content Creation**
+- 🌱 I’m currently learning **Full stack Development, AI, Deep Learning, Content Creation**
 
 - 👯 I’m looking to collaborate on **interesting projects and startups**
 
-- 📝 I regularly write articles on [LinkedIn, Monomousumi, DailyHunt, Medium](LinkedIn, Monomousumi, DailyHunt, Medium)
-
+- 📝 I regularly write articles on **LinkedIn, Monomousumi, DailyHunt, Medium**
+  
 - 📫 How to reach me **basahithya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
